@@ -3,3 +3,4 @@
 1-listit: displays the contents list of the current directory
 3-listfiles: displays the current directory contents in long format
 4-listmorefiles: displays current directory contents including hidden files in long format
+5-listfilesdigitonly: displays current directory contents, long format, hidden files, numeric user and group IDs
